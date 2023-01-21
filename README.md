@@ -1,0 +1,2 @@
+# .NetStudies
+repo for study
